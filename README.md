@@ -7,4 +7,4 @@ then:
 
 Start the texstudio application and `File -> Open` the example `math_ode1.tex` file. Use `Tools -> Build & View` (F5 key shortcut) to generate the pdf that will be displayed alongside the tex. 
 
-![alt text](latex_play/math_ode1.png "TeXstudio")
+![alt text](https://github.com/rheiland/latex_play/blob/master/math_ode1.png "TeXstudio")
